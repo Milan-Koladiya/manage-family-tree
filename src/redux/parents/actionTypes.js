@@ -1,0 +1,2 @@
+export const GET_PARENTS_SUCCESS = "GET_PARENTS_SUCCESS";
+export const GET_PARENTS = "GET_PARENTS";
